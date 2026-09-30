@@ -12,7 +12,7 @@
 
 ---
 
-### Fontra Hive — the collaborative font editor
+### Fontra Hive — Fontra for Teams
 
 <a href="https://fontrahive.com"><img src="https://raw.githubusercontent.com/Uplus-Type/fontra-hive/main/src/fontra_hive/client/icons/hive-icon.svg" alt="Fontra Hive" width="64" align="left"></a>
 
